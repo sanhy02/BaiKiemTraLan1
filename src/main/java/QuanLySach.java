@@ -34,7 +34,7 @@ public class QuanLySach {
         }
     }
 
-    // Lấy tổng trị giá các sách
+   
     public double tongTriGia() {
         double tong = 0;
         for (Sach sach : danhsachSach) {
